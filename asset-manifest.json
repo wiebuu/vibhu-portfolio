@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/vibhu-portfolio/static/css/main.475f13fa.css",
-    "main.js": "/vibhu-portfolio/static/js/main.02a47499.js",
+    "main.css": "/vibhu-portfolio/static/css/main.e66eba5c.css",
+    "main.js": "/vibhu-portfolio/static/js/main.414ebaca.js",
     "static/js/787.fb771931.chunk.js": "/vibhu-portfolio/static/js/787.fb771931.chunk.js",
     "static/media/contact-bg-img.jpg": "/vibhu-portfolio/static/media/contact-bg-img.345c6d101b830f0e7e18.jpg",
     "static/media/color-sharp.png": "/vibhu-portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -25,17 +25,17 @@
     "static/media/meter1.svg": "/vibhu-portfolio/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
     "static/media/meter3.svg": "/vibhu-portfolio/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
     "static/media/nav-icon3.svg": "/vibhu-portfolio/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
-    "index.html": "/vibhu-portfolio/index.html",
     "static/media/nav-icon1.svg": "/vibhu-portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "index.html": "/vibhu-portfolio/index.html",
     "static/media/arrow2.svg": "/vibhu-portfolio/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/vibhu-portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/vibhu-portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.475f13fa.css.map": "/vibhu-portfolio/static/css/main.475f13fa.css.map",
-    "main.02a47499.js.map": "/vibhu-portfolio/static/js/main.02a47499.js.map",
+    "main.e66eba5c.css.map": "/vibhu-portfolio/static/css/main.e66eba5c.css.map",
+    "main.414ebaca.js.map": "/vibhu-portfolio/static/js/main.414ebaca.js.map",
     "787.fb771931.chunk.js.map": "/vibhu-portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.475f13fa.css",
-    "static/js/main.02a47499.js"
+    "static/css/main.e66eba5c.css",
+    "static/js/main.414ebaca.js"
   ]
 }
